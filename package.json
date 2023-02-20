@@ -2,7 +2,7 @@
   "name": "react-sdk-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eathertoo.github.io/videosdk-sample",
+  "homepage": "https://eatherzhou.github.io/videosdk-sample",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.2",
